@@ -20,3 +20,5 @@ In summary, this project showcased how a combination of mathematical optimizatio
 
 #output
 
+![Image](https://github.com/user-attachments/assets/ebbf96b0-1d8e-4860-9afa-fee55cfcf2be)
+
